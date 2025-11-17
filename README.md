@@ -14,9 +14,9 @@ WindTurbine-Blade-Condition-Monitoring
 ├── Data_Cleaning_Visualistion.ipynb      → Preprocessing & initial inspection
 ├── Time_Domain_Analysis.ipynb            → RMS, peaks, kurtosis, trending
 ├── Spectral_Analysis.ipynb               → FFT, PSD, coherence, FDD
-├── Modal_Analysis-Blade_1.ipynb          → FDD/SSI & mode shapes for Blade 1
-├── Modal_Analysis-Blade_2.ipynb          → FDD/SSI & mode shapes for Blade 2
-├── Modal_Analysis-Blade_3.ipynb          → FDD/SSI & mode shapes for Blade 3
+├── Modal_Analysis-Blade_1.ipynb          → SSI & mode shapes for Blade 1
+├── Modal_Analysis-Blade_2.ipynb          → SSI & mode shapes for Blade 2
+├── Modal_Analysis-Blade_3.ipynb          → SSI & mode shapes for Blade 3
 │
 ├── Turbine_1.csv                         → Cleaned vibration dataset (Turbine 1)
 ├── Turbine_2.csv                         → Cleaned vibration dataset (Turbine 2)
