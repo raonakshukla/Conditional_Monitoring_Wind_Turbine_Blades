@@ -3,6 +3,7 @@ This repository contains a full workflow for analysing the structural health of 
 
 The analysis covers all three blades (B1, B2, B3) across two turbines, using both broadband vibration data and derived mode shapes.
 
+'''text
 📦 WindTurbine-Blade-Condition-Monitoring
 │
 ├── Data_Cleaning_Visualistion.ipynb      → Preprocessing & initial inspection  
