@@ -23,3 +23,4 @@ The analysis covers all three blades (B1, B2, B3) across two turbines, using bot
 ├── mode_shapes.xlsx                       → Extracted mode shapes & damping
 │
 └── README.md                              → Project documentation
+'''
